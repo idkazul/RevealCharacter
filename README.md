@@ -1,2 +1,2 @@
 # RevealCharacter
-A simple Steal a Brainrot script which lets you see invisible users.
+A simple Roblox script that allows you to see invisible users. This was originally for SAB but it works for any game.
